@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    background-image: url("671background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    border: 15px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgba(142, 205, 149, 0.9);
+    padding: 20px;
+    margin-top: 120px;
+    border: 5px dotted grey;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.circle-image {
+    width: 300px;
+    height: auto;
+}
